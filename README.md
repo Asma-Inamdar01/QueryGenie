@@ -261,10 +261,10 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-**Gautam N Chipkar**
-GitHub: [https://github.com/gee-46](https://github.com/gee-46)
+**Asma Inamdar**
+GitHub: [https://github.com/Asma-Inamdar01](https://github.com/Asma-Inamdar01)
 
 ---
 
